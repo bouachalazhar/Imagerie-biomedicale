@@ -1,3 +1,3 @@
 # Imagerie-biomedicale
 
-Le développement de la morphologie mathématique est inspiré des problèmes de traitement d'images, domaine qui constitue son principal champ d'application. Elle fournit en particulier des outils de filtrage, segmentation, quantification et modélisation d'images.
+Les outils utilisés couvrent la transformée de Radon et des opérations élémentaires de morphologie. La morphologie mathématique est une théorie non-linéaire, utilisée en particulier en analyse d'images, dont le but est l'étude des objets en fonction de leur forme, de leur taille, des relations avec leur voisinage, de leur texture, et de leurs niveaux de gris ou de leur couleur. Par les transformations qu'elle propose, elle se situe à différents niveaux du traitement d'images (filtrage, segmentation, mesures, analyse de texture) et fournit ainsi des outils pour la reconnaissance des formes.
