@@ -21,7 +21,6 @@ function [Ip, LabIp] = pretraitement(I,R)
   imshow(Irbin, []);
   title('seuillage');
 
-
   % Image débruitée
   strel1 = strel('disk', R(1), 0);
   IrO = imopen(Irbin, strel1);
